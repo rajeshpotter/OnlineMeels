@@ -1,0 +1,13 @@
+#navbar{
+    display: flex;
+    align-items: center;
+}
+#logo {
+    margin:30px;
+    padding: 30px;
+
+}
+#logo img{
+    width:10px;
+    height: 100px;
+}
